@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eaf629b-6a11-4e7b-a161-0175eeaed105" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ProjectId" id="1WQQ50trDwRXsl1cwV8JGvTcc9E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../peer_P2W6" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Application.TestArchief">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration name="TestArchief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.examen.test.TestArchief" />
+      <module name="Opgave" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.examen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArchiefstukken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.examen.test.TestArchiefstukken" />
+      <module name="Opgave" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.examen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestArchief" />
+        <item itemvalue="Application.TestArchiefstukken" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eaf629b-6a11-4e7b-a161-0175eeaed105" name="Default" comment="" />
+      <created>1484071976028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484071976028</updated>
+      <workItem from="1484071979419" duration="220000" />
+      <workItem from="1579079154074" duration="8592000" />
+      <workItem from="1579110815325" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1725" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1579085390580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1725" y="402" key="#com.intellij.ide.util.MemberChooser/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579085390580" />
+    <state x="1768" y="590" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579079733990">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1768" y="590" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579079733990" />
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1579110898274">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="456" key="FileChooserDialogImpl/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579110898274" />
+    <state width="2517" height="318" key="GridCell.Tab.0.bottom" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.0.bottom/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state width="2517" height="318" key="GridCell.Tab.0.center" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.0.center/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state width="2517" height="318" key="GridCell.Tab.0.left" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.0.left/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state width="2517" height="318" key="GridCell.Tab.0.right" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.0.right/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state width="2517" height="318" key="GridCell.Tab.1.bottom" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.1.bottom/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state width="2517" height="318" key="GridCell.Tab.1.center" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.1.center/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state width="2517" height="318" key="GridCell.Tab.1.left" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.1.left/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state width="2517" height="318" key="GridCell.Tab.1.right" timestamp="1579087753099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="318" key="GridCell.Tab.1.right/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087753099" />
+    <state x="1022" y="320" key="refactoring.ChangeSignatureDialog" timestamp="1579087107674">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1022" y="320" key="refactoring.ChangeSignatureDialog/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1579087107674" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Opgave</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
